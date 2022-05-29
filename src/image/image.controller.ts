@@ -1,7 +1,6 @@
 import { Controller, Get, Header, Headers, HttpException, HttpStatus, Param, Post, Body, Patch, Delete } from '@nestjs/common';
 import { CloudinaryService } from 'src/cloudinary/cloudinary.service';
 import { PexelsService } from 'src/pexels/pexels.service';
-import { UserService } from 'src/user/user.service';
 
 import { CreateImageDto } from './dto/create-image.dto'
 import { UpdateImageDto } from './dto/update-image.dto'

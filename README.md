@@ -3,6 +3,11 @@
 npm install
 ```
 
+# Third Party Dependencies
+CLOUDINARY: https://cloudinary.com/
+PEXELS: https://www.pexels.com/api/
+MONGODB: https://www.mongodb.com/
+
 # Setup
 Create .env
 ```
@@ -22,5 +27,4 @@ npm run start:dev
 ```
 
 # API Doc
-
 Visit http://localhost:3000/api
