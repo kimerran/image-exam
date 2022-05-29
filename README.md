@@ -1,14 +1,16 @@
-# Install Dependencies
+# Node JS API - 24 Hour Challenge
+
+## Install Dependencies
 ```
 npm install
 ```
 
-# Third Party Dependencies
-CLOUDINARY: https://cloudinary.com/
-PEXELS: https://www.pexels.com/api/
-MONGODB: https://www.mongodb.com/
+## Third Party Dependencies
+- CLOUDINARY: https://cloudinary.com/
+- PEXELS: https://www.pexels.com/api/
+- MONGODB: https://www.mongodb.com/
 
-# Setup
+## Setup
 Create .env
 ```
 PEXELS_API_KEY=
@@ -21,10 +23,10 @@ JWT_SECRET=
 MONGODB_URL=
 ```
 
-# Run
+## Run
 ```
 npm run start:dev
 ```
 
-# API Doc
+## API Doc
 Visit http://localhost:3000/api
